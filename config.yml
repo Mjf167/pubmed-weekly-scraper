@@ -1,0 +1,11 @@
+# ✏️  Edit keywords and email address anytime, commit, push, done.
+keywords:
+  - spine
+  - kyphosis
+  - Scheuermann
+  - "pedicle screw"
+  - "machine learning AND orthopedics"
+email_to: "you@gmail.com"
+window_days: 7        # look‑back window in days
+max_papers: 50        # safety cap
+summary_model: "gpt-4o"  # any model in your quota

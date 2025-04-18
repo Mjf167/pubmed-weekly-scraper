@@ -1,0 +1,9 @@
+# Byte‑code
+__pycache__/
+*.py[cod]
+
+# Output reports
+output/
+
+# VSCode
+.vscode/
