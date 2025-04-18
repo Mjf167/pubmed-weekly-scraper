@@ -6,10 +6,10 @@ import pandas as pd
 
 from pathlib import Path
 
-from query_pubmed import fetch_last_week
-from summarize import summarise
-from render import write_markdown
-from send_email import send_mail
+from .query_pubmed import fetch_last_week
+from .summarize import summarise
+from .render import write_markdown
+from .send_email import send_mail
 
 CONFIG_PATH = Path(__file__).parent.parent / "config.yml"
 
